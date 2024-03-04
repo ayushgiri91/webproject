@@ -1,0 +1,13 @@
+.cont{
+display : flex;
+background-color:black;
+flex-direction: row-reverse;
+color:white;
+gap:30px;
+height:50px;
+
+}
+
+ #ayush:hover,#ayush1:hover,#ayush2:hover{
+    color:red;
+    }
